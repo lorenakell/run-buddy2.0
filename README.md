@@ -12,3 +12,5 @@ https://lorenakell.github.io/run-buddy2.0/
 
 ## Contribution
 Made with ❤️ by Kell</er> B
+
+### ©️2019 Run Buddy, Inc
